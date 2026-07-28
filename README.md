@@ -103,4 +103,4 @@ Python **3.8+** is recommended.
 
 ## Author
 
-**Adham Yaser**
+**Adham Yasser**
