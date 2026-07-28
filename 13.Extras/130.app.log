@@ -1,0 +1,13 @@
+
+
+ (23 - July - 2026, 15:58:48) --> 'adham is root' | CRITICAL --> adham has critical
+
+ (23 - July - 2026, 15:58:48) --> 'adham is root' | ERROR --> adham has error
+
+ (23 - July - 2026, 15:58:48) --> 'adham is root' | WARNING --> adham has warning
+
+ (23 - July - 2026, 15:58:48) --> 'adham is adham' | CRITICAL --> adham has critical
+
+ (23 - July - 2026, 15:58:48) --> 'adham is adham' | ERROR --> adham has error
+
+ (23 - July - 2026, 15:58:48) --> 'adham is adham' | WARNING --> adham has warning
