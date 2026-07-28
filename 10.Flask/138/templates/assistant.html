@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block body %}
+<h1 class="page-head" >{{page_head}} </h1>
+<p class="page-description" >{{description}}</p>
+
+{% for assistant in assistants %}
+<div >
+    {{assistant[0]}} | {{assistant[1]}}
+</div>
+{%endfor%}
+
+{% endblock %}
